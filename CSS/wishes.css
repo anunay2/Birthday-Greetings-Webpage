@@ -1,0 +1,27 @@
+body{
+    background-color:lavender;
+   
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    background-color: whitesmoke;
+    flex-wrap: wrap;
+
+}
+
+.cursive{
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+    text-align: center;
+}
+
+.cursive1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+
